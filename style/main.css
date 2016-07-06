@@ -1,3 +1,21 @@
 body {
     font-family: sans-serif;
 }
+
+header {
+    background: #490a3d;
+}
+
+#main_title {
+    color: #fff;
+}
+
+footer {
+    color: #999;
+    background: #e6e6e6;
+}
+
+#updated_at {
+    text-align: center;
+    padding: 0.5em;
+}
